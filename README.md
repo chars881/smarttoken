@@ -13,19 +13,18 @@ SmartToken is an API token reseller platform built for developers and AI users i
 ## Features
 
 - **7-day free trial** — 50,000 tokens for new users, no credit card required
-- **Stripe payments** — Monthly and annual plans
-- **Tiered plans** — Starter / Pro / Business to fit any scale
+- **Stripe payments** — Monthly and annual plans, SGD pricing
+- **Tiered plans** — Starter / Pro to fit individuals and small teams
 - **99.9% uptime** — Cloudflare-powered infrastructure
 - **English-first** — Built for international users
 
 ## Pricing
 
-| Plan | Price | Token Quota | Best For |
-|------|-------|-------------|----------|
-| Free Trial | $0 | 50K tokens / 7 days | Trying it out |
-| Starter | $9.9/mo | 500K tokens | Individual developers |
-| Pro | $29.9/mo | 2M tokens | Small teams |
-| Business | $99.9/mo | 10M tokens | Growing companies |
+| Plan | Monthly | Annual | Token Quota | Best For |
+|------|---------|--------|-------------|----------|
+| Free Trial | — | — | 50K tokens / 7 days | Trying it out |
+| Starter | 9.9 SGD/mo | 100.98 SGD/yr | 600K tokens | Individual developers |
+| Pro | 18.0 SGD/mo | 183.6 SGD/yr | 1.5M tokens | Small teams & power users |
 
 ## Quick Start
 
